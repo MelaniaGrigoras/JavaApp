@@ -1,6 +1,7 @@
 # JavaApp
 
 Various applications developed using Java.
+--
 
 ## PaintApp
-  is a simulation of the Paint program withour GUI for the moment.
+  is a simulation of the Paint program without GUI for the moment.
