@@ -1,6 +1,6 @@
 package data;
 
-import app.Movable;
+import util.Movable;
 
 public abstract class Shape implements Movable {
 	Point center;
